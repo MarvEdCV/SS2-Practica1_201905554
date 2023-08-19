@@ -1,0 +1,126 @@
+Consulta 1:
+ciudad, 51
+cliente, 2000
+empleado, 2000
+entregas_estado, 5
+producto, 1552
+tiempo, 332
+entregas, 1223
+
+Consulta 2:
+Catalina Vargas, 4
+David Aguilar, 4
+Natalia Reyes, 4
+Ricardo Ríos, 4
+Sofía Delgado, 4
+
+Consulta 3:
+ Envío de equipos deportivos, 49.97
+ Envío de productos de limpieza, 49.95
+ Envío de productos médicos, 49.93
+ Caja de herramientas, 49.92
+ Envío a domicilio, 49.91
+
+Consulta 4:
+Barberena, 33
+Jalapa, 33
+Amatitlán, 32
+San José Pinula, 31
+San Pablo Jocopilas, 31
+
+Consulta 5:
+189, 49.59
+1127, 49.46
+53, 49.27
+148, 49.14
+1013, 49.03
+
+Consulta 6:
+985, 49.93
+1130, 49.90
+652, 49.79
+996, 49.47
+376, 49.46
+
+Consulta 7:
+Amatitlán, 32
+Antigua Guatemala, 23
+Asunción Mita, 19
+Barberena, 33
+Cantel, 19
+Chicacao, 20
+Chimaltenango, 27
+Chiquimula, 25
+Ciudad Vieja, 17
+Coatepeque, 25
+Cobán, 25
+Escuintla, 25
+Guatemala City, 21
+Huehuetenango, 19
+Jacaltenango, 28
+Jalapa, 33
+Jocotenango, 24
+Jutiapa, 19
+La Gomera, 23
+Malacatán, 23
+Mazatenango, 27
+Mixco, 16
+Nahualá, 23
+Nebaj, 25
+Ostuncalco, 15
+Palín, 25
+Patulul, 25
+Patzún, 24
+Petapa, 23
+Puerto Barrios, 22
+Quetzaltenango, 23
+Retalhuleu, 24
+San Benito, 20
+San Cristóbal Verapaz, 22
+San Francisco El Alto, 24
+San José Pinula, 31
+San Juan Sacatepéquez, 27
+San Lucas Sacatepéquez, 22
+San Marcos, 27
+San Pablo Jocopilas, 31
+San Pedro Ayampuc, 23
+San Pedro Sacatepéquez, 29
+Sanarate, 27
+Santa Catarina Pinula, 20
+Santa Cruz del Quiché, 26
+Santa Lucía Cotzumalguapa, 24
+Sololá, 17
+Sumpango, 31
+Totonicapán, 25
+Villa Canales, 21
+Villa Nueva, 24
+
+Consulta 8:
+Viernes, 156
+Martes, 179
+Jueves, 175
+Miércoles, 166
+Sábado, 198
+Domingo, 163
+Lunes, 186
+
+Consulta 9:
+Julio, 93
+Octubre, 94
+Enero, 96
+Abril, 100
+Marzo, 106
+Mayo, 98
+Septiembre, 104
+Diciembre, 114
+Agosto, 90
+Junio, 116
+Febrero, 110
+Noviembre, 102
+
+Consulta 10:
+2021, 283
+2022, 305
+2020, 334
+2023, 301
+
