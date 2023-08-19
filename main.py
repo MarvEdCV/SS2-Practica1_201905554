@@ -88,7 +88,7 @@ def main():
         print("c) Extraer información")
         print("d) Cargar información")
         print("e) Realizar consultas")
-        print("q) Salir")
+        print("x) Salir")
 
         opcion = input("Opción: ")
 
@@ -103,7 +103,7 @@ def main():
             cargar_informacion(cursor, conn)
         elif opcion == 'e':
             realizar_consultas(cursor, conn)
-        elif opcion == 'q':
+        elif opcion == 'x':
             break
         else:
             print("Opción inválida.")
